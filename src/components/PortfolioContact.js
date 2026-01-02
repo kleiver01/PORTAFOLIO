@@ -47,10 +47,11 @@ const PortfolioContact = () => {
   return (
     <div className="p-10 bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl shadow-2xl border border-gray-700 transform translate-y-4 opacity-0 animate-fade-in-up group">
       <h2 className="text-5xl font-extrabold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-green-500 animate-text-glow">
-        &lt;Contacto /&gt;
+        &lt;Contact /&gt;
       </h2>
       <p className="text-xl leading-relaxed mb-8 text-gray-200">
-        ¡Encuéntrame en mis redes sociales y conectemos!
+        Find me on my social media and let's connect!
+
       </p>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">

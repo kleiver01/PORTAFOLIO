@@ -2,10 +2,10 @@ import React, { useEffect, useRef } from 'react';
  
 const PortfolioMenu = ({ currentPage, setCurrentPage }) => {
   const menuItems = [
-    { id: 'about', name: 'Sobre Mí' },
-    { id: 'skills', name: 'Habilidades' },
-    { id: 'projects', name: 'Proyectos' },
-    { id: 'contact', name: 'Contacto' },
+    { id: 'about', name: 'About me' },
+    { id: 'skills', name: 'Skills' },
+    { id: 'projects', name: 'Projects' },
+    { id: 'contact', name: 'Contact' },
   ];
  
   const selectSound = useRef(null);
@@ -74,7 +74,7 @@ const PortfolioMenu = ({ currentPage, setCurrentPage }) => {
           {item.name}
           {currentPage === item.id && (
             <span className="absolute top-0 right-0 -mt-2 -mr-2 bg-yellow-400 text-black text-xs font-bold px-2 py-1 rounded-full animate-ping-slow">
-              ACTIVO
+              ACTIVE
             </span>
           )}
         </button>

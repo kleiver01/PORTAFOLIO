@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio-/static/css/main.a64fa249.css",
-    "main.js": "/Portfolio-/static/js/main.6ae0237c.js",
-    "static/media/NerdMart.png": "/Portfolio-/static/media/NerdMart.33f82b8ee5da03c86e70.png",
-    "static/media/Snake-game.png": "/Portfolio-/static/media/Snake-game.2b236cc4370d3a92cd85.png",
-    "static/media/Tier-maker.png": "/Portfolio-/static/media/Tier-maker.6f64234f553f8fa87cb1.png",
-    "static/media/Arkanoid-game.png": "/Portfolio-/static/media/Arkanoid-game.8dbbc624b3275a97aa5d.png",
-    "static/media/Tic-tac-toe.png": "/Portfolio-/static/media/Tic-tac-toe.004cf307941a4e49bf17.png",
-    "index.html": "/Portfolio-/index.html",
-    "main.a64fa249.css.map": "/Portfolio-/static/css/main.a64fa249.css.map",
-    "main.6ae0237c.js.map": "/Portfolio-/static/js/main.6ae0237c.js.map"
+    "main.css": "/PORTAFOLIO/static/css/main.75fd66b6.css",
+    "main.js": "/PORTAFOLIO/static/js/main.6cea4758.js",
+    "static/media/NerdMart.png": "/PORTAFOLIO/static/media/NerdMart.33f82b8ee5da03c86e70.png",
+    "static/media/Snake-game.png": "/PORTAFOLIO/static/media/Snake-game.2b236cc4370d3a92cd85.png",
+    "static/media/Translator.png": "/PORTAFOLIO/static/media/Translator.e62de970c0ab0ea3f567.png",
+    "static/media/Tier-maker.png": "/PORTAFOLIO/static/media/Tier-maker.6f64234f553f8fa87cb1.png",
+    "static/media/Arkanoid-game.png": "/PORTAFOLIO/static/media/Arkanoid-game.8dbbc624b3275a97aa5d.png",
+    "static/media/Conversor.png": "/PORTAFOLIO/static/media/Conversor.8f6686c9e3376b21ae23.png",
+    "static/media/ip.png": "/PORTAFOLIO/static/media/ip.c5d4cbb7363147d3f4cc.png",
+    "static/media/Tic-tac-toe.png": "/PORTAFOLIO/static/media/Tic-tac-toe.568a19fb319b2a106506.png",
+    "static/media/Ahorcado.png": "/PORTAFOLIO/static/media/Ahorcado.b565a8875e9cac43a04b.png",
+    "index.html": "/PORTAFOLIO/index.html",
+    "main.75fd66b6.css.map": "/PORTAFOLIO/static/css/main.75fd66b6.css.map",
+    "main.6cea4758.js.map": "/PORTAFOLIO/static/js/main.6cea4758.js.map"
   },
   "entrypoints": [
-    "static/css/main.a64fa249.css",
-    "static/js/main.6ae0237c.js"
+    "static/css/main.75fd66b6.css",
+    "static/js/main.6cea4758.js"
   ]
 }

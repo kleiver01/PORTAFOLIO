@@ -14,63 +14,63 @@ const PortfolioProjects = () => {
   const projects = [
     {
       name: 'Nerdmart',
-      description: '🎮 Una tienda online de productos gamers es un espacio digital especializado en ofrecer todo lo que un jugador necesita.',
+      description: '🎮 A gamers online store is a digital space specialized in offering everything a player needs.',
       link: 'https://kleiver01.github.io/Nerdmart/',
       device: 'PC',
       image: NerdMartImg
     },
     {
       name: 'Tier Maker',
-      description: '📊 Tier Maker te ayuda a crear y compartir rankings visuales tipo tier-maker.',
+      description: '📊 Tier Maker helps you create and share visual rankings of type tier-maker.',
       link: 'https://kleiver01.github.io/10-tier-maker/',
-      device: 'PC/Móvil',
+      device: 'PC/Mobile',
       image: TierMakerImg
     },
     {
       name: 'Snake game',
-      description: '🐍 Snake Game es un juego clásico donde controlas una serpiente que crece al comer comida..',
+      description: '🐍 Snake Game is a classic game where you control a snake that grows when it eats food.',
       link: 'https://kleiver01.github.io/snake-game/',
-      device: 'PC/Móvil',
+      device: 'PC/Mobile',
       image: SnakeGameImg
     },
     {
       name: 'IP Locator',
-      description: 'Una aplicación web sencilla y rápida que permite consultar información de cualquier dirección IP',
+      description: 'A simple and fast web application that allows you to look up information for any IP address.',
       link: 'https://kleiver01.github.io/IP-Locator/',
-      device: 'PC/Móvil',
+      device: 'PC/Mobile',
       image: IpImg
     },
     {
       name: 'Tic tac toe',
-      description: '❌⭕ Juego clásico de tres en raya adaptado para PC y móviles.',
+      description: '❌⭕ Classic three in a row game adapted for PC and mobile.',
       link: 'https://kleiver01.github.io/01-tic-tac-toe/',
-      device: 'PC/Móvil',
+      device: 'PC/Mobile',
       image: TicTacToeImg
     },
     {
       name: 'Conversor de unidades',
-      description: '📏 Herramienta web para convertir unidades de medida de forma rápida y sencilla.',
+      description: '📏 Web tool to quickly and easily convert units of measurement.',
       link: 'https://kleiver01.github.io/Conversor/',
-      device: 'PC/Móvil',
+      device: 'PC/Mobile',
       image: ConversorImg
     },
     {
       name: 'Ahorcado Pixel',
-      description: '✏️ Página web del ahorcado: Un juego clásico en línea, simple y responsivo, donde el usuario adivina palabras letra por letra.',
+      description: '✏️ Hangman website: A classic online game, simple and responsive, where the user guesses words letter by letter.',
       link: 'https://kleiver01.github.io/ahorcado/',
       device: 'PC',
       image: AhorcadoImg
     },
     {
       name: 'Translator',
-      description: '🌐 Traductor de texto en tiempo real: una herramienta web que permite traducir textos de español a ingles.',
+      description: '🌐 Real-time text translator: a web tool that allows you to translate text from Spanish to English.',
       link: 'https://kleiver01.github.io/translator/',
-      device: 'PC/Móvil',
+      device: 'PC/Mobile',
       image: TranslatorImg
     },
     {
      name: 'Arkanoid game',
-      description: '🕹️ Juego web retro inspirado en el clásico Arkanoid.',
+      description: '🕹️ Retro web game inspired by the classic Arkanoid.',
       link: 'https://kleiver01.github.io/08-arkanoid-game/',
       device: 'PC',
       image: ArkanoidImg
@@ -80,7 +80,7 @@ const PortfolioProjects = () => {
   return (
     <section className="px-4 sm:px-6 lg:px-10 py-10 max-w-screen-xl mx-auto bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl shadow-2xl border border-gray-700 animate-fade-in-up overflow-hidden">
       <h2 className="text-3xl sm:text-4xl font-extrabold mb-8 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500 animate-text-glow text-center">
-        &lt;Proyectos /&gt;
+        &lt;Projects /&gt;
       </h2>
 
       {/* Scroll vertical decorado sin scroll horizontal */}

@@ -4,10 +4,10 @@ const MobileMenu = ({ currentPage, setCurrentPage }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   const menuItems = [
-    { id: 'about', name: 'Sobre Mí' },
-    { id: 'skills', name: 'Habilidades' },
-    { id: 'projects', name: 'Proyectos' },
-    { id: 'contact', name: 'Contacto' },
+    { id: 'about', name: 'About me' },
+    { id: 'skills', name: 'Skills' },
+    { id: 'projects', name: 'Projects' },
+    { id: 'contact', name: 'Contact' },
   ];
 
   const handleSelect = (id) => {
